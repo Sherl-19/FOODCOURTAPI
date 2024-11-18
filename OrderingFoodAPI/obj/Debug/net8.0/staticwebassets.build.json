@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QrGPs0JRlV4+asHTumV2o9UEIwvITdcmsl/uttnIxPs=",
+  "Source": "OrderingFoodAPI",
+  "BasePath": "_content/OrderingFoodAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
